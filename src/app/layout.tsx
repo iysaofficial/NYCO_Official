@@ -7,6 +7,7 @@ export const metadata = {
   title: 'NYCO Official'
 };
 
+
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
