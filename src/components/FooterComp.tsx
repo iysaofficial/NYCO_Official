@@ -35,7 +35,7 @@ const FooterComp = () =>{
                             <Link href="/#about">Tentang</Link>
                         </li>
                         <li>
-                            <Link href="https://drive.google.com/file/d/17PyI0wunxWq_Xami5eRLlWuqft98QZ6t/view?usp=drive_link" target='_blank'>Buku Panduan</Link>
+                            <Link href="https://drive.google.com/file/d/12V9wdh8kQQTELQEflCUk_Cxtcf3wiW5M/view?usp=sharing" target='_blank'>Buku Panduan</Link>
                         </li>
                         {/* <li>
                             <a href="#">Galeri</a>
@@ -71,7 +71,7 @@ const FooterComp = () =>{
                             </Link>
                         </li>
                         <li>
-                            <Link href="https://www.instagram.com/iyc.olympiad/" target='_blank'>
+                            <Link href="https://www.instagram.com/nyco.official?utm_source=ig_web_button_share_sheet&igsh=MXczZHNjem0zMXhzcQ==" target='_blank'>
                                 <i className='fab fa-instagram'></i>
                             </Link>
                         </li>
