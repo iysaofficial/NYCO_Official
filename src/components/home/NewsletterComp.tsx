@@ -16,11 +16,11 @@ const NewsletterComp = () =>{
                 method: "POST",
                 body: new FormData(form),
             });
-            alert("Data sent successfully!");
+            alert("Data berhasil dikirim!");
             form.reset();
             } catch (error) {
             console.error("Error:", error);
-            alert("Failed to send data.");
+            alert("Gagal mengirim data.");
             }
         };
 
