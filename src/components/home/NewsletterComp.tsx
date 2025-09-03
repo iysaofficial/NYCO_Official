@@ -6,7 +6,7 @@ const NewsletterComp = () =>{
         const scriptURL =
         "https://script.google.com/macros/s/AKfycbwfw1dAhzyY6p6crVCCuoEXzb_E7hBOi8cYuIBu_-JZzz2a25h-tCvT6Xd3dUH9Mx2fQA/exec";
 
-        const form = document.forms.namedItem("regist-form");
+        const form = document.forms.namedItem("home-newsletter");
 
         if (form) {
         const handleSubmit = async (e: Event) => {
@@ -42,7 +42,7 @@ const NewsletterComp = () =>{
                             <h2>Dapatkan Manfaat Eksklusif</h2>
                             <p>Berlangganan ke daftar email kami dan dapatkan promosi eksklusif</p>
                         </div>
-                        <form action="" method="POST" name="regist-form">
+                        <form action="" method="POST" name="home-newsletter">
                             <div className="input_box">
                                 <input type="email" name="Email" placeholder="Email"/>
                                 <button type="submit">Langganan</button>
