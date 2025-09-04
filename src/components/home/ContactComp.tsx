@@ -115,6 +115,7 @@ const ContactComp = () =>{
                     
                         <form action="" autoComplete='off' method='POST' name='home-contact'>
                             <h3 className="title">Hubungi Kami</h3>
+                            <input type="hidden" name="Event" value="NYCO" readOnly />
                             <div className="input-container">
                                 <input type="text" name="Name" className="input"/>
                                 <label htmlFor="">Nama</label>
