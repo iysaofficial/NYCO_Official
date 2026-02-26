@@ -25,7 +25,7 @@ const NationalOnlineComp: React.FC = () => {
 
   useEffect(() => {
     const scriptURL =
-      "";
+      "https://script.google.com/macros/s/AKfycbyH3MSCWPvXuC78I_0UBXgGp_7oddqiRy8uCcFfroT-JxcchjCyCE0f-DNjW_7pc_HT/exec";
 
     const form = document.forms.namedItem("regist-form");
     let buttonCounter = 0;
@@ -122,7 +122,7 @@ const NationalOnlineComp: React.FC = () => {
           {/* INFORMASI UMUM SECTION */}
           <InformasiUmumSection />
 
-          <input type="hidden" name="PRICE" value="Rp. 300.000" readOnly />
+          <input type="hidden" name="PRICE" value="Rp. 350.000" readOnly />
           
           {/* Submit Button */}
           <div className="submit-container">
