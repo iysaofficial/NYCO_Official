@@ -83,7 +83,7 @@ const ContactComp = () =>{
                             </div>
                             <div className="information">
                                 <img src="/assets/images/icon/phone.png" className="contact-icon" alt="" />
-                                <Link href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</Link>
+                                <Link href='https://wa.me/+6288213248890' target='_blank'>+6288213248890</Link>
                             </div>
                         </div>
 
