@@ -103,7 +103,7 @@ const NavbarComp = () =>{
                         <Link href="/#about">Tentang</Link>
                     </li>
                     <li className='menu-item'>
-                        <Link href="https://drive.google.com/file/d/12V9wdh8kQQTELQEflCUk_Cxtcf3wiW5M/view?usp=sharing" 
+                        <Link href="https://drive.google.com/file/d/1KqErOiqhdSwDJaI8Q7tkakCQ3HcAWk3q/view?usp=sharing" 
                             target='_blank' 
                             rel="noopener noreferrer">
                                 Buku Panduan

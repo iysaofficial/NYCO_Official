@@ -35,7 +35,7 @@ const FooterComp = () =>{
                             <Link href="/#about">Tentang</Link>
                         </li>
                         <li>
-                            <Link href="https://drive.google.com/file/d/12V9wdh8kQQTELQEflCUk_Cxtcf3wiW5M/view?usp=sharing" target='_blank'>Buku Panduan</Link>
+                            <Link href="https://drive.google.com/file/d/1KqErOiqhdSwDJaI8Q7tkakCQ3HcAWk3q/view?usp=sharing" target='_blank'>Buku Panduan</Link>
                         </li>
                         {/* <li>
                             <a href="#">Galeri</a>
