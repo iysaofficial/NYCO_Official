@@ -10,8 +10,9 @@ const HeroComp = () =>{
                 <p>Pendaftaran National Youth Chemistry Olympiad telah dibuka! Bergabunglah <br /> dengan acara bergengsi ini dan dapatkan pengalaman yang tak terlupakan!
                 </p>
                 <br />
-                <Link href="/registration" className="registration-button">Registrasi Disini!</Link>
-                <Link href="https://drive.google.com/file/d/1KqErOiqhdSwDJaI8Q7tkakCQ3HcAWk3q/view?usp=sharing" target="_blank" className="registration-button">GuideBook</Link>
+                {/* <Link href="/registration" className="registration-button">Registrasi Disini!</Link> */}
+                <Link href="#" className="registration-button">Pendaftaran Ditutup!</Link>
+                {/* <Link href="https://drive.google.com/file/d/1KqErOiqhdSwDJaI8Q7tkakCQ3HcAWk3q/view?usp=sharing" target="_blank" className="registration-button">GuideBook</Link> */}
             </div>
         </section>
         </> 
