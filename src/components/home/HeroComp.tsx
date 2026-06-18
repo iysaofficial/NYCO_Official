@@ -11,7 +11,7 @@ const HeroComp = () =>{
                 </p>
                 <br />
                 {/* <Link href="/registration" className="registration-button">Registrasi Disini!</Link> */}
-                <Link href="#" className="registration-button">Pendaftaran Ditutup!</Link>
+                <Link href="#" className="registration-button">Coming Soon 2027</Link>
                 {/* <Link href="https://drive.google.com/file/d/1KqErOiqhdSwDJaI8Q7tkakCQ3HcAWk3q/view?usp=sharing" target="_blank" className="registration-button">GuideBook</Link> */}
             </div>
         </section>
